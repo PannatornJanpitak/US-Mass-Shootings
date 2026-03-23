@@ -1,11 +1,3 @@
-"""
-US Mass Shooting — Chart Generation Script (v3)
-Run this to generate all charts into the images/ folder.
-
-Usage:  python generate_charts.py
-Needs:  pip install pandas matplotlib seaborn openpyxl scipy
-"""
-
 import os
 import numpy as np
 import pandas as pd
