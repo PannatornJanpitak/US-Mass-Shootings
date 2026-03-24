@@ -1,6 +1,8 @@
 # การกราดยิงในสหรัฐอเมริกา: 60 ปีแห่งวิกฤตที่ทวีความรุนแรง
 
-> *"การกราดยิงหมู่เป็นปัญหาที่เกิดขึ้นเฉพาะในสหรัฐอเมริกา"*
+> *"Mass shootings are a uniquely American problem."*
+> — [Brady United, Gun Violence Statistics](https://www.bradyunited.org/resources/statistics)
+
 
 ---
 
