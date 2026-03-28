@@ -79,7 +79,7 @@ Fig 4a: แคลิฟอร์เนียเป็นรัฐที่มี
 Fig 4b: Correlation Matrix (ซ้าย) และ Population vs Incidents Scatter Plot (ขวา)
 ![heatmap_scatterplot](images/population_gdp.png)
 
-**ทำไมแคลิฟอร์เนีย เท็กซัส และฟลอริดาถึงมีมากที่สุด?**
+**ทำไมแคลิฟอร์เนีย เท็กซัส และฟลอริดาถึงมีจำนวนการก่อเหตุบ่อยครั้ง?**
 
 
 เรานำข้อมูลประชากรและ GDP รายรัฐจาก US Census Bureau (2020) และ Bureau of Economic Analysis (2020) มาวิเคราะห์ร่วมกับข้อมูลการกราดยิงในช่วงปี 1998–2024
